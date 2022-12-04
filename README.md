@@ -17,4 +17,4 @@ before adding a new dependcy make sure it is not already added in the pom.xml fi
 ## Dependencies 
 
 * Java 11 or higher
-* Maven 
+
